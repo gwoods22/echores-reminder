@@ -1,0 +1,9 @@
+{
+  "name": "gwoods22/echores-reminder",
+  "version": "0.0.0",
+  "author": "gwoods22",
+  "stdlib": {
+    "name": "gwoods22/echores-reminder",
+    "timeout": 10000
+  }
+}
